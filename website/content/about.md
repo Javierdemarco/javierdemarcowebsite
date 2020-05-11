@@ -3,27 +3,57 @@ title = "About Me"
 slug = "about"
 +++
 
-Hugo is a static site engine written in Go.
+[github]: /images/github.svg
+[gitlab]: /images/gitlab2.ico
 
+Hi, My name is Javier de Marco and this is my website.
 
-It makes use of a variety of open source projects including:
+## Introduccion
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+Here you can find my professional information as well as what im currently
+working on.
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+In the main page you can find my links to
+[My Gitlab Page](https://gitlab.com/javierdemarco) as well as my
+[My Github Page](https://github.com/javierdemarco) and
+[Twitter Page](https://twitter.com/javierdemarcoo).
 
-## Setup
+At one moment in time my Gitlab and Github repositories mught not be sync with
+each other, but i will try to make it so, for anyone that prefers any of them
+in particular can check my projects.
 
-Some fun facts about [Hugo](http://gohugo.io/):
+## Studies
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+* International School SEK Ciudalcampo
+  * International Required Secondary Education (MYP)
+  * Baccalaureate
+* Computer Engineering by the Autonomous University of Madrid
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+## Languages
 
-Thanks for reading!
+* Spanish: Native
+* English: High
+  * C1 Certificate (2007)
+  * Abroad program studies in Dublin
+
+## Personal Skills
+
+* System work flexibility (Windows and Linux)
+* High leadership skills
+* High temwork skills
+* Great adaptive ability to different tems and projects
+* Experience with Git
+* Clear, clean and ordered programming methology
+
+## Programming Skills
+
+* C: High
+* Python: High
+* Java: High
+* Ruby: Medium
+* Haskell: Medium
+* SQL: Medium-High
+* UML: High
+* Lisp: Medium
+* WEB: Medium-High
+* Android: High
