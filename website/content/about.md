@@ -18,9 +18,16 @@ In the main page you can find my links to
 [My Github Page](https://github.com/javierdemarco) and
 [Twitter Page](https://twitter.com/javierdemarcoo).
 
-At one moment in time my Gitlab and Github repositories mught not be sync with
+At one moment in time my Gitlab and Github repositories might not be sync with
 each other, but i will try to make it so, for anyone that prefers any of them
 in particular can check my projects.
+
+## Work experience
+
+* 10/2019 - 12/2019 -> ALTIA CONSULTORES - University external practices
+Python and AWS projects. Web services in PHP and HTML
+* 01/2019 - 07/2019 -> RACE - Football Coach
+Manage a football team, supervizing sports events.
 
 ## Studies
 
@@ -33,7 +40,7 @@ in particular can check my projects.
 
 * Spanish: Native
 * English: High
-  * C1 Certificate (2007)
+  * C1 Certificate
   * Abroad program studies in Dublin
 
 ## Personal Skills
@@ -41,19 +48,14 @@ in particular can check my projects.
 * System work flexibility (Windows and Linux)
 * High leadership skills
 * High temwork skills
-* Great adaptive ability to different tems and projects
+* Great adaptive ability to different teams and projects
 * Experience with Git
 * Clear, clean and ordered programming methology
 
 ## Programming Skills
 
-* C: High
-* Python: High
-* Java: High
-* Ruby: Medium
-* Haskell: Medium
-* SQL: Medium-High
-* UML: High
-* Lisp: Medium
-* WEB: Medium-High
-* Android: High
+* High:
+** C, Python, Java, Software design* Medium:
+** PHP, HTML, AWS, SQL, Haskell, Ruby, JavaScript, C++
+
+
