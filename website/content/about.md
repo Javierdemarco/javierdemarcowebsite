@@ -25,9 +25,9 @@ in particular can check my projects.
 ## Work experience
 
 * 10/2019 - 12/2019 -> ALTIA CONSULTORES - University external practices
-Python and AWS projects. Web services in PHP and HTML
+  * Python and AWS projects. Web services in PHP and HTML
 * 01/2019 - 07/2019 -> RACE - Football Coach
-Manage a football team, supervizing sports events.
+  * Manage a football team, supervizing sports events.
 
 ## Studies
 
@@ -55,7 +55,18 @@ Manage a football team, supervizing sports events.
 ## Programming Skills
 
 * High:
-** C, Python, Java, Software design* Medium:
-** PHP, HTML, AWS, SQL, Haskell, Ruby, JavaScript, C++
+  * C
+  * Python
+  * Java
+  * Software design
+* Medium:
+  * PHP
+  * HTML
+  * AWS
+  * SQL
+  * Haskell
+  * Ruby
+  * JavaScript
+  * C++
 
 

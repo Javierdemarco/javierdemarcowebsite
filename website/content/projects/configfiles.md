@@ -38,7 +38,7 @@ This will launch my compositor (Compton), statusbar (Polybar), wallpaper manager
 2. RC file
 How openbox behaves.
 <br>
-There is a separate post for this issue, as it is quite long.
+There is a separate post for this issue.
 
 ### Alacritty
 
