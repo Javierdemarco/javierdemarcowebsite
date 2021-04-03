@@ -3,7 +3,6 @@ title = "About Me"
 slug = "about"
 +++
 
-[github]: /images/github.svg
 [gitlab]: /images/gitlab2.ico
 
 Hi, My name is Javier de Marco and this is my website.
@@ -15,26 +14,25 @@ working on.
 
 In the main page you can find my links to
 [My Gitlab Page](https://gitlab.com/javierdemarco) as well as my
-[My Github Page](https://github.com/javierdemarco) and
-[Twitter Page](https://twitter.com/javierdemarcoo).
-
-At one moment in time my Gitlab and Github repositories might not be sync with
-each other, but i will try to make it so, for anyone that prefers any of them
-in particular can check my projects.
 
 ## Work experience
 
-* 10/2019 - 12/2019 -> ALTIA CONSULTORES - University external practices
-  * Python and AWS projects. Web services in PHP and HTML
-* 01/2019 - 07/2019 -> RACE - Football Coach
-  * Manage a football team, supervizing sports events.
+|Date|Job|Description|
+|:----:|:---:|:---:|
+| 03/2021 - Present | DELOITTE SPAIN - Delivery Analist | Cybersecurity Emergency Management. First
+Response Team. Digital Forensics and Incident Response (DFIR) |
+| 12/2020 - 03/2021 | VIEWNEXT (IBM) - Application specialist | Salesforce solutions on client |
+| 10/2019 - 12/2019 | ALTIA CONSULTORES - University external practices | Python and AWS projects.
+Web services in PHP and HTML |
+| 01/2019 - 07/2019 | RACE - Football Coach | manage a football team, supervizing sports events |
+|
 
 ## Studies
 
+* Computer Engineering by the Autonomous University of Madrid
 * International School SEK Ciudalcampo
   * International Required Secondary Education (MYP)
   * Baccalaureate
-* Computer Engineering by the Autonomous University of Madrid
 
 ## Languages
 
@@ -59,6 +57,7 @@ in particular can check my projects.
   * Python
   * Java
   * Software design
+  * Bash
 * Medium:
   * PHP
   * HTML

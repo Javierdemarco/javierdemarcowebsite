@@ -56,13 +56,10 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
-  [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/javierdemarcoo"
 
   [[params.social]]
-    name = "github"
-    url = "https://github.com/javierdemarco"
+    name = "linkedin"
+    url = "https://es.linkedin.com/in/javierdemarcotomas"
 
   [[params.social]]
     name = "gitlab"
@@ -76,15 +73,15 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 [menu]
 
   [[menu.main]]
-    name = "Projects"
-    url = "projects/"
-    weight = 20
-
-  [[menu.main]]
     name = "About"
     url = "about/"
     weight = 30
 
+  [[menu.main]]
+    name = "Projects"
+    url = "projects/"
+    weight = 20
+  
   [[menu.main]]
     name = "Contact"
     url = "contact/"
