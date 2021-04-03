@@ -22,7 +22,7 @@ In the main page you can find my links to
 | 03/2021 - Present | DELOITTE SPAIN - Delivery Analist | Cybersecurity Emergency Management, First Response Team. Digital Forensics and Incident Response (DFIR) |
 | 12/2020 - 03/2021 | VIEWNEXT (IBM) - Application specialist | Salesforce solutions on client |
 | 10/2019 - 12/2019 | ALTIA CONSULTORES - University external practices | Python and AWS projects. Web services in PHP and HTML |
-| 01/2019 - 07/2019 | RACE - Football Coach | Manage a football team, supervizing sports events |
+| 01/2019 - 07/2019 | RACE - Football Coach | Manage a football team, supervising sports events |
 
 ## Studies
 
