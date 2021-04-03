@@ -13,19 +13,16 @@ Here you can find my professional information as well as what im currently
 working on.
 
 In the main page you can find my links to
-[My Gitlab Page](https://gitlab.com/javierdemarco) as well as my
+[My Gitlab Page](https://gitlab.com/javierdemarco)
 
 ## Work experience
 
 |Date|Job|Description|
 |:----:|:---:|:---:|
-| 03/2021 - Present | DELOITTE SPAIN - Delivery Analist | Cybersecurity Emergency Management. First
-Response Team. Digital Forensics and Incident Response (DFIR) |
+| 03/2021 - Present | DELOITTE SPAIN - Delivery Analist | Cybersecurity Emergency Management, First Response Team. Digital Forensics and Incident Response (DFIR) |
 | 12/2020 - 03/2021 | VIEWNEXT (IBM) - Application specialist | Salesforce solutions on client |
-| 10/2019 - 12/2019 | ALTIA CONSULTORES - University external practices | Python and AWS projects.
-Web services in PHP and HTML |
-| 01/2019 - 07/2019 | RACE - Football Coach | manage a football team, supervizing sports events |
-|
+| 10/2019 - 12/2019 | ALTIA CONSULTORES - University external practices | Python and AWS projects. Web services in PHP and HTML |
+| 01/2019 - 07/2019 | RACE - Football Coach | Manage a football team, supervizing sports events |
 
 ## Studies
 
