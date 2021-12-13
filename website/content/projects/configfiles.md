@@ -2,7 +2,6 @@
 author: "Javier de Marco"
 date: "2020-05-11"
 title: Dotfiles Project
-
 ---
 
 # Dot Files
@@ -18,12 +17,12 @@ in linux.
 ## Software
 
 * Window Manager: Openbox
-* Terminal Emulator: Alacritty
+* Terminal Emulator: kitty
 * Shell: Zsh
 * Dock: Plank
 * Status bar: Polybar
 * Application launcher: Rofi
-* Editor: NeoVim
+* Editor: NeoVim and Emacs
 
 ### Openbox
 

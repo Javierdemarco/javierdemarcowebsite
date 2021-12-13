@@ -65,4 +65,3 @@ In the main page you can find my links to
   * JavaScript
   * C++
 
-
