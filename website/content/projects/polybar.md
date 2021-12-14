@@ -1,9 +1,8 @@
 ---
 author: "Javier de Marco"
-date: ""
 title: Polybar
 ---
-![Polybar](/static/images/polybar.png)
+![Polybar](images/polybar.png)
 ## Introduction
 Polybar is an highly configurable status bar that aims to help users create awesome personalized bars.
 
