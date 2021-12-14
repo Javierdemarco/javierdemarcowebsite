@@ -50,7 +50,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   relatedPosts = false  # Add a related content section to all single posts page
 
   code_copy_button = true # Turn on/off the code-copy-button for code-fields
-  
+
   # Add custom css
   # customCSS = ["css/foo.css", "css/bar.css"]
 
@@ -75,15 +75,19 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   [[menu.main]]
     name = "About"
     url = "about/"
-    weight = 30
+    weight = 40
 
   [[menu.main]]
     name = "Projects"
     url = "projects/"
     weight = 20
-  
+
   [[menu.main]]
     name = "Contact"
     url = "contact/"
-    weight = 40
+    weight = 50
 
+  [[menu.wiki]]
+    name = "Wiki"
+    url = "wiki/"
+    weight = 30

@@ -4,7 +4,7 @@
 -------------------------------------------------------------------------------
 
 This is my personal website.
-The language used to program the website is [Hugo](https://gohugo.io/ "Hugo Oficial Language Website"), a fast and flexible statis site generator written in go.
+The language used to program the website is [Hugo](https://gohugo.io/ "Hugo Oficial Language Website"), a fast and flexible static site generator written in go.
 
 -------------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ A wiki i try to maintain with computer, programming and Linux related knowledge 
 Mostly my _Curriculum Vitae_
 
 ### Contact
-All the links and email accounts where you can contact me. 
+All the links and email accounts where you can contact me.

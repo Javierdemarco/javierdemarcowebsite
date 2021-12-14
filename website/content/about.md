@@ -3,7 +3,7 @@ title = "About Me"
 slug = "about"
 +++
 
-## Introduccion
+# Introduccion
 
 Here you can find my professional information as well as what i'm currently
 working on.
@@ -12,7 +12,7 @@ In the main page you can find my links to my
 [Gitlab](https://gitlab.com/javierdemarco) page and my [Github](https://github.com/javierdemarco)
 page
 
-## Work experience
+# Work experience
 
 |Date|Job|Description|
 |:----:|:---:|:---:|
@@ -21,21 +21,23 @@ page
 | 10/2019 - 12/2019 | ALTIA CONSULTORES - University external practices | Python and AWS projects. Web services in PHP and HTML |
 | 01/2019 - 07/2019 | RACE - Football Coach | Manage a football team, supervising sports events |
 
-## Studies
+# Studies
 
 * Computer Engineering by the Autonomous University of Madrid
 * International School SEK Ciudalcampo
   * International Required Secondary Education (MYP)
   * Baccalaureate
 
-## Languages
+## Courses
+* TODO
+# Languages
 
 * Spanish: Native
 * English: High
   * C1 Certificate
   * Abroad program studies in Dublin
 
-## Personal Skills
+# Personal Skills
 
 * System work flexibility (Windows and Linux)
 * High leadership skills
@@ -44,21 +46,18 @@ page
 * Experience with Git
 * Clear, clean and ordered programming methology
 
-## Programming Skills
+# Programming Skills
 
-* High:
-  * C
-  * Python
-  * Java
-  * Software design
-  * Bash
-* Medium:
-  * PHP
-  * HTML
-  * AWS
-  * SQL
-  * Haskell
-  * Ruby
-  * JavaScript
-  * C++
-
+* C
+* Python
+* Java
+* Software design
+* Bash
+* PHP
+* HTML
+* AWS
+* SQL
+* Haskell
+* Ruby
+* JavaScript
+* C++
