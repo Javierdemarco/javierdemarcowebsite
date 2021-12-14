@@ -1,6 +1,6 @@
 ---
 author: "Javier de Marco"
-date: 2021-12-14T03:54:34+01:00
+date: 2021-12-14
 title: Don't Get Lost
 ---
 
